@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnailYue
 - 👀 I’m interested in Android & Web
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web & Android
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on Android & Web
 - 📫 How to reach me ...
 
 <!---
